@@ -1,0 +1,19 @@
+.row div {
+    margin: 0.25rem;
+}
+
+.col-sm {
+    background-color: darkred;
+}
+
+.col-md {
+    background-color: chocolate;
+}
+
+.col-lg {
+    background-color: darkolivegreen;
+}
+
+.col-xl {
+    background-color: darksalmon;
+}
